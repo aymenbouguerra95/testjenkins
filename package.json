@@ -1,0 +1,11 @@
+{
+    "name": "myapp",
+    "version": "1.0.0",
+    "description": "Simple Node.js app for Jenkins Docker pipeline",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {}
+  }
+  
